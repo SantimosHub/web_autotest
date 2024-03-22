@@ -1,0 +1,17 @@
+address: http://test-stand.gb.ru
+sleep_time: 1
+browser: chrome
+implicitly_wait: 5
+email: Batruha
+password: efad7cc6ce
+title: It's a new post
+description: test post
+content: There some text
+contact_name: Test Name
+contact_email: Test@gmail.com
+contact_content: Test Content
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: post
